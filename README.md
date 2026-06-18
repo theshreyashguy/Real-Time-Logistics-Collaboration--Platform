@@ -1,5 +1,13 @@
 # Hemut — Real-Time Logistics Collaboration Platform
 
+## Walkthrough
+
+[![Loom Walkthrough](https://img.shields.io/badge/Watch%20Walkthrough-Loom-5D5EBD?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/6198622c6a7a488b9f5bc229768b62aa)
+
+> 3–5 min demo covering login, channels, real-time messaging, DMs, shipment cards, presence, and the AI summarization feature.
+
+---
+
 A Slack-style collaboration platform for logistics teams: channels, DMs,
 real-time messaging, presence, inline shipment context, and one AI feature
 (**channel thread summarization**). Built to the attached HLD/LLD.
